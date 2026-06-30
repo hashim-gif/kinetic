@@ -1,4 +1,4 @@
-# Kinetic — Animated Creative Studio Template
+# Kinetic Animated Creative Studio Template
 
 An award-tier, single-page creative-studio landing page. Editorial-meets-tech
 aesthetic, heavy on motion quality: smooth-scroll inertia, scroll-choreographed
